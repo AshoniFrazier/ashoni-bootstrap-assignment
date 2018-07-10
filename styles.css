@@ -1,0 +1,44 @@
+body {
+    background: url("images/izzy-background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    border: 15px solid #000000;
+    background: #8dc5f0;
+    padding: 10px;
+}
+.jumbotron {
+    border: 5px solid #000e30;
+    background: #8dc5f0;  
+}
+.navbar {
+    background: #8dc5f0;
+    border: 3px solid #000e30;
+    color: #000e30;
+}
+
+h2 {
+    font-family: 'Sedgwick Ave Display';
+    font-size: 35px;
+}
+main{
+    border: 10px solid #000e30;
+    width: "100%"
+}
+article {
+    border: 5px solid #000e30;   
+    width: 100%;
+}
+section {
+    border: 5px solid #000e30;  
+    width: 100%
+}
+p {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+p.lead {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
