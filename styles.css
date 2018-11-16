@@ -1,6 +1,7 @@
 body {
-    background: url("images/izzy-background2.jpg");
+    background: url("images/blueFlame.jpg");
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 .container {
@@ -41,4 +42,10 @@ p {
 p.lead {
     font-family: 'Playfair Display', serif;
     font-size: 30px;
+}
+footer {
+
+}
+.email {
+    text-decoration: underline;
 }
